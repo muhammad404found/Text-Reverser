@@ -1,13 +1,11 @@
 # 🔁 Text Reverser
 
-A Python app that flips any text you type — backwards and beautifully.
+A Python app with a simple GUI that reverses any text input — because why not confuse your friends?
 
-## Features
-- Simple GUI
-- Pop-up results
+- Type any text  
+- Click reverse  
+- Boom — backwards brilliance
 
-## Built With
-- tkinter
+Built with `tkinter`.
 
-## Author
-Muhammad Ahmad
+**Author:** Muhammad Ahmad
